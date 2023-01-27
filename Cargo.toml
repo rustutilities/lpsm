@@ -1,8 +1,14 @@
 [package]
 name = "lpsm"
+authors =  ["rbs, <drealblackstar@gmail.com>", "rustutilities"]
 version = "0.1.0"
 edition = "2021"
+description = "A more user friendly and ergonomic process managment tool"
+documentation = "https://doc.rs/lpsm"
+license = "MIT"
+readme = "READEME.md"
+keywords = ["memory", "rust", "process"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+
